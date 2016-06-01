@@ -1,0 +1,40 @@
+#person {
+  width: 50%;
+  margin: auto;
+}
+
+.biography {
+}
+
+.image {
+  float: left;
+  margin-right: 30px;
+  height: 150px;
+}
+
+.bio {
+  display: inline;
+  /*margin-left: 30px;*/
+}
+
+.lifespan {
+  margin-top: 10px;
+  clear: both;
+}
+
+#name-Title {
+  clear: both;
+  padding-top: 20px;
+}
+
+.oddBG {
+  background-color: #ADD8E6;
+}
+
+.evenBG {
+  background-color: #FFFFE0;
+}
+
+.dottedBorder {
+  border: 2px dotted red;
+}
